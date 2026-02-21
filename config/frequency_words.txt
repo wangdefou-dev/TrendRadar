@@ -1,25 +1,25 @@
+# AI 热点
+人工智能
+AI
+大模型
+ChatGPT
 DeepSeek
-梁文锋
+Claude
+Gemini
+OpenAI
 
-谷歌
-google
-gemini
+# 国内热点新闻
+时政
+政策
+经济
+楼市
+股市
 
-chatgpt
-openai
-
-金价
-
-黄金
-+价格
-
-美债
-
-美股
-
-美元
-+指数
-
-特朗普
-
-伊朗
+# 推特与自媒体运营
+推特
+Twitter
+X平台
+自媒体
+涨粉
+变现
+流量
